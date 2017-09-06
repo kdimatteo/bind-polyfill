@@ -9,4 +9,5 @@ Not needed for IE9+, FF4+ Webkit, Chrome 12+ (_but is needed for PhantomJS_). Se
 
 `bower install bind-polyfill --save`
 
-If you're managing packages with npm please refer to (bindpolyfill)[https://www.npmjs.com/package/bindpolyfill]
+If you're managing packages with npm please refer to [bindpolyfill](https://www.npmjs.com/package/bindpolyfill)
+
