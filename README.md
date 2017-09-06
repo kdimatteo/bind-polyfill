@@ -8,3 +8,5 @@ This method is also available in the broader [polyfills](https://github.com/inex
 Not needed for IE9+, FF4+ Webkit, Chrome 12+ (_but is needed for PhantomJS_). See [ES5 Compatibility Table](http://kangax.github.io/es5-compat-table/#Function.prototype.bind) for details. 
 
 `bower install bind-polyfill --save`
+
+If you're managing packages with npm please refer to (bindpolyfill)[https://www.npmjs.com/package/bindpolyfill]
